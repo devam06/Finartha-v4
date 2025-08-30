@@ -57,6 +57,8 @@ FinArtha solves this problem by providing:
 
 ## 🔑 API Key Integration  
 
+HF Spaces for granite : https://huggingface.co/spaces/ad1xya/granite-api
+
 We integrated our API key using **Streamlit’s `secrets.toml`** file.  
 This allows secure access to the AI models and prevents direct exposure of keys in the codebase.  
 
@@ -64,5 +66,6 @@ This allows secure access to the AI models and prevents direct exposure of keys 
 # .streamlit/secrets.toml
 [api_keys]
 gemini = "your_api_key_here"
+
 
 
