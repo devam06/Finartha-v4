@@ -7,6 +7,13 @@ It combines AI-powered insights, real-time stock data, and an intuitive chat-fir
 Video explanation:
 https://www.loom.com/share/961cc5a8b40d43608db5ac101083bb7b?sid=adda5050-2e67-4d3f-bf91-78fa24d7998d
 
+
+Pitch deck for FinArtha:
+https://pitch.com/v/finartha-r8258q
+
+Presentation for FinArtha:
+https://docs.google.com/presentation/d/1vvjmRak3GXNHWwGhvKZto0kzzqXjbH5Pap7ho4MAJzo/edit?usp=sharing
+
 ---
 
 ## 🚀 Team Æ  
@@ -57,4 +64,5 @@ This allows secure access to the AI models and prevents direct exposure of keys 
 # .streamlit/secrets.toml
 [api_keys]
 gemini = "your_api_key_here"
+
 
