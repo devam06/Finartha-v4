@@ -1,0 +1,8 @@
+streamlit
+gradio-client
+pandas
+numpy
+google-generativeai
+plotly
+yfinance
+
