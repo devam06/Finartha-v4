@@ -2,24 +2,18 @@
 **Your AI-Powered Indian Financial Buddy**  
 
 FinArtha is a conversational financial assistant built to simplify money management for Indian users.  
-It combines AI-powered insights, real-time stock data, and an intuitive chat-first interface to make finance **simple, contextual, and personalized**.  
-
-Video explanation:
-https://www.loom.com/share/961cc5a8b40d43608db5ac101083bb7b?sid=adda5050-2e67-4d3f-bf91-78fa24d7998d
+It combines AI-powered insights, real-time stock data, and an intuitive chat-first interface to make finance **simple, contextual, and personalized**. 
 
 
 Pitch deck for FinArtha:
 https://pitch.com/v/finartha-r8258q
 
-Presentation for FinArtha:
-https://docs.google.com/presentation/d/1vvjmRak3GXNHWwGhvKZto0kzzqXjbH5Pap7ho4MAJzo/edit?usp=sharing
 
 ---
 
-## 🚀 Team Æ  
+## 🚀 Team African Embassy
 - **Kanchi Aditya** – 22K91A6674  
-- **Devam Dubey** – 22K91A6638  
-- **Angad Mungelkar** – 22K91A6604  
+- **Devam Dubey** – 22K91A6638   
 
 ---
 
@@ -65,7 +59,8 @@ This allows secure access to the AI models and prevents direct exposure of keys 
 ```toml
 # .streamlit/secrets.toml
 [api_keys]
-gemini = "your_api_key_here"
+GOOGLE_API_KEY = "your_api_key_here"
+
 
 
 
